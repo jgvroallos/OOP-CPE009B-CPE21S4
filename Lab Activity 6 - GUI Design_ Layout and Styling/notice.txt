@@ -1,0 +1,2 @@
+Files located in this directory are incomplete submissions of lab activity #6.
+For the complete submission and copy of pdf file, please refer to the folder "Laboratory Activity 6 - GUI Design: Layout and Styling"
